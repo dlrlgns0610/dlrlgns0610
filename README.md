@@ -1,16 +1,14 @@
-## Hi there 👋
+# 안녕하세요! 👋
+저는 고려대학교 언어학과에 재학 중인 학생입니다.
+자연어 처리(NLP)에 관심을 가지고 공부하고 있습니다.
 
-<!--
-**dlrlgns0610/dlrlgns0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## skill
+- **언어**: Python, C
+- **도구**: TensorFlow, PyTorch, scikit-learn, HuggingFace, NLTK
+- **기술**: 자연어 처리, 기계학습, 데이터 분석
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 연락처
+- **이메일**: dlrlgns0610@korea.ac.kr
+
+감사합니다!
